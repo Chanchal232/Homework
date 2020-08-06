@@ -74,8 +74,10 @@ export  class Screen1 extends Component {
                     <div className="title">   <FontAwesomeIcon className="returnArrow" icon={faAngleLeft}/></div> 
                     <div className="subject">   <h4 >Create Homework(Science)</h4> </div> 
                    </Navbar>
-                   <div className="formBackgorund">
-                      <form onSubmit={this.onFormSubmit} className="Formborder screen2" >
+                   
+  
+                   <div className="formBackgorund ">
+                      <form onSubmit={this.onFormSubmit} className="Formborder screen2 " >
                       <div className="form-group">
                       <div className="Customborder">
                       <div id="form-id" className="Entrybox">

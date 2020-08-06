@@ -11,13 +11,15 @@ body{
   height: 100vh;
 }
 .form{
-  padding-top: 0px; padding-right: 25px;
+  padding-top: 0px;
+   padding-right: 25px;
   padding-left: 250px;
   margin-bottom: 38px;
 
 }
 .formBackgorund{
   background-color: gray;
+
 }
 .screen2
 {
@@ -27,7 +29,7 @@ body{
   justify-content: center;
   width: 100%;
   min-height: 100%;
-  padding: 20px;
+  
 }
 .Navheader
 {
