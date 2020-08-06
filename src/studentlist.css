@@ -1,0 +1,145 @@
+*
+{ margin: 0;
+  padding:0;
+  
+  font-family:sans-serif;
+  font-size: 4rem;
+  
+
+}
+
+
+.title
+{
+  float: left;
+  width:35%;
+  
+  margin-left:150px;
+  margin-right:50px;
+  
+}
+.returnArrow{
+ 
+  margin-right: -100px;
+  margin-left:150px;
+  
+  cursor: pointer;
+  color: white;
+
+}
+.subject
+{
+  color: aliceblue;
+  text-align:center;
+  float: none;
+
+  margin-left: -25px;
+  
+}
+.searchIcon
+{
+  float: right;
+  cursor: pointer;
+  margin-left: 100px;
+  width:33.33%;
+  color:white;
+
+}
+
+.logo{
+  background-color:#f2f4f7;
+  display: inline-block;
+  width: 100%;
+   margin-right: 40px;
+ 
+}
+.icon{
+  height:40px;
+  width:40px;
+}
+.icon, .text ,h4{
+  display:inline;
+  margin-left: 40px;
+}
+.subtitle h5
+{
+  margin-left: 137px;
+ 
+}
+.text{
+  margin-left:10px;
+  margin-left: 40px;
+}
+icon{
+  cursor: pointer;
+}
+.contact {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #bbb;
+    background-color: #eee;
+  }
+ 
+  .icon-holder{
+    position:fixed;
+    bottom: 50px;
+    right:50px;
+    border-radius: 100%;
+    width:85px;
+    height: 85px;
+    height: 40px;
+  }
+  
+  .svg-inline--fa.fa-w-16 {
+    width: 5em;
+}
+.upload{
+ 
+  width:85px;
+  height: 85px;
+  cursor: pointer;
+}
+.upload:hover{
+  opacity: 0.8;
+}
+
+.customtab{
+  background-color: #8f95b0;
+  font-style: oblique;
+  margin-left: 20px;
+  margin-right:20px;
+}
+.customPanel{
+  background-color: #8f95b0;
+}
+.card{
+  background-color: #8f95b0;
+}
+.customCard{
+  border-radius: 4.25rem;
+  background-color:#8f95b0;
+}
+.customCard{
+ 
+  color: black;
+  
+}
+@keyframes upload{
+  from{
+    transform: translateY(2px);
+  }
+  to{
+    transform: translateY(-1px);
+  }
+}
+@media (min-width:600px){
+  *{
+ font-size:1.25rem;
+ }
+ }
+ @media (min-width:900px){
+ *{
+ font-size:1.5rem;
+ line-height:1.5;
+ }
+ }
