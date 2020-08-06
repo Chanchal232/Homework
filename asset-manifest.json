@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HomeAssignments/static/css/main.563ed669.chunk.css",
+    "main.js": "/HomeAssignments/static/js/main.3fd19cd7.chunk.js",
+    "main.js.map": "/HomeAssignments/static/js/main.3fd19cd7.chunk.js.map",
+    "runtime-main.js": "/HomeAssignments/static/js/runtime-main.05f280f4.js",
+    "runtime-main.js.map": "/HomeAssignments/static/js/runtime-main.05f280f4.js.map",
+    "static/css/2.a09026a1.chunk.css": "/HomeAssignments/static/css/2.a09026a1.chunk.css",
+    "static/js/2.6c95ee8f.chunk.js": "/HomeAssignments/static/js/2.6c95ee8f.chunk.js",
+    "static/js/2.6c95ee8f.chunk.js.map": "/HomeAssignments/static/js/2.6c95ee8f.chunk.js.map",
+    "index.html": "/HomeAssignments/index.html",
+    "precache-manifest.6e626a54ef23e592c0afc403b48d7853.js": "/HomeAssignments/precache-manifest.6e626a54ef23e592c0afc403b48d7853.js",
+    "service-worker.js": "/HomeAssignments/service-worker.js",
+    "static/css/2.a09026a1.chunk.css.map": "/HomeAssignments/static/css/2.a09026a1.chunk.css.map",
+    "static/css/main.563ed669.chunk.css.map": "/HomeAssignments/static/css/main.563ed669.chunk.css.map",
+    "static/js/2.6c95ee8f.chunk.js.LICENSE.txt": "/HomeAssignments/static/js/2.6c95ee8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05f280f4.js",
+    "static/css/2.a09026a1.chunk.css",
+    "static/js/2.6c95ee8f.chunk.js",
+    "static/css/main.563ed669.chunk.css",
+    "static/js/main.3fd19cd7.chunk.js"
+  ]
+}
