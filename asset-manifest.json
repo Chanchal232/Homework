@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/HomeAssignments/static/css/main.563ed669.chunk.css",
-    "main.js": "/HomeAssignments/static/js/main.3fd19cd7.chunk.js",
-    "main.js.map": "/HomeAssignments/static/js/main.3fd19cd7.chunk.js.map",
-    "runtime-main.js": "/HomeAssignments/static/js/runtime-main.05f280f4.js",
-    "runtime-main.js.map": "/HomeAssignments/static/js/runtime-main.05f280f4.js.map",
-    "static/css/2.a09026a1.chunk.css": "/HomeAssignments/static/css/2.a09026a1.chunk.css",
-    "static/js/2.6c95ee8f.chunk.js": "/HomeAssignments/static/js/2.6c95ee8f.chunk.js",
-    "static/js/2.6c95ee8f.chunk.js.map": "/HomeAssignments/static/js/2.6c95ee8f.chunk.js.map",
-    "index.html": "/HomeAssignments/index.html",
-    "precache-manifest.6e626a54ef23e592c0afc403b48d7853.js": "/HomeAssignments/precache-manifest.6e626a54ef23e592c0afc403b48d7853.js",
-    "service-worker.js": "/HomeAssignments/service-worker.js",
-    "static/css/2.a09026a1.chunk.css.map": "/HomeAssignments/static/css/2.a09026a1.chunk.css.map",
-    "static/css/main.563ed669.chunk.css.map": "/HomeAssignments/static/css/main.563ed669.chunk.css.map",
-    "static/js/2.6c95ee8f.chunk.js.LICENSE.txt": "/HomeAssignments/static/js/2.6c95ee8f.chunk.js.LICENSE.txt"
+    "main.css": "/Homework/static/css/main.563ed669.chunk.css",
+    "main.js": "/Homework/static/js/main.956f6423.chunk.js",
+    "main.js.map": "/Homework/static/js/main.956f6423.chunk.js.map",
+    "runtime-main.js": "/Homework/static/js/runtime-main.7ca48d61.js",
+    "runtime-main.js.map": "/Homework/static/js/runtime-main.7ca48d61.js.map",
+    "static/css/2.a09026a1.chunk.css": "/Homework/static/css/2.a09026a1.chunk.css",
+    "static/js/2.6c95ee8f.chunk.js": "/Homework/static/js/2.6c95ee8f.chunk.js",
+    "static/js/2.6c95ee8f.chunk.js.map": "/Homework/static/js/2.6c95ee8f.chunk.js.map",
+    "index.html": "/Homework/index.html",
+    "precache-manifest.7077dec560ec284d686bd7d413119984.js": "/Homework/precache-manifest.7077dec560ec284d686bd7d413119984.js",
+    "service-worker.js": "/Homework/service-worker.js",
+    "static/css/2.a09026a1.chunk.css.map": "/Homework/static/css/2.a09026a1.chunk.css.map",
+    "static/css/main.563ed669.chunk.css.map": "/Homework/static/css/main.563ed669.chunk.css.map",
+    "static/js/2.6c95ee8f.chunk.js.LICENSE.txt": "/Homework/static/js/2.6c95ee8f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05f280f4.js",
+    "static/js/runtime-main.7ca48d61.js",
     "static/css/2.a09026a1.chunk.css",
     "static/js/2.6c95ee8f.chunk.js",
     "static/css/main.563ed669.chunk.css",
-    "static/js/main.3fd19cd7.chunk.js"
+    "static/js/main.956f6423.chunk.js"
   ]
 }
