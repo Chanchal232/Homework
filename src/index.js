@@ -3,13 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import Screen1 from './screen1';
 
-import Remark from './screen2';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Screen1/>
+    <App/>
+  
   </React.StrictMode>,
   document.getElementById('root')
 );

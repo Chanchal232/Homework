@@ -1,10 +1,6 @@
 import React, { Component } from 'react';
 import DatePicker from 'react-datepicker';
-import {
-  Card, CardImg, CardImgOverlay,
-  CardTitle,
-  NavbarToggler
-} from 'reactstrap';
+
 import "react-datepicker/dist/react-datepicker.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Navbar } from 'react-bootstrap';
