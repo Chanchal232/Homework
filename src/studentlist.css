@@ -58,6 +58,9 @@
   display:inline;
   margin-left: 40px;
 }
+.subtitle h4{
+  margin-left: 137px;
+}
 .subtitle h5
 {
   margin-left: 137px;
@@ -129,14 +132,10 @@ icon{
     transform: translateY(-1px);
   }
 }
-@media (min-width:600px){
-  *{
- font-size:1.25rem;
+
+ .blank
+ {
+   display: inline;
  }
- }
- @media (min-width:900px){
- *{
- font-size:1.5rem;
- line-height:1.5;
- }
- }
+
+

@@ -1,0 +1,206 @@
+
+ .harrow
+ {
+   color: black;
+   margin-right: 40px;
+   cursor: pointer;
+ 
+ }
+ .card-signin {
+    border: 0;
+    border-radius: 1rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-signin .card-title {
+    margin-bottom: 2rem;
+    font-weight: 300;
+    font-size: 1.5rem;
+  }
+  
+  .card-signin .card-body {
+    padding: 2rem;
+   
+  }
+  .card{
+    width: 550px;
+  }
+  .card-body{
+    width: 550px;;
+  }
+  
+  
+.form{
+    padding-top: 0px;
+     padding-right: 25px;
+    padding-left: 250px;
+    margin-bottom: 38px;
+  
+  }
+  .formBackgorund{
+    background-color: lightgray;
+  
+  }
+  .screen2
+  {
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+    justify-content: center;
+    width: 100%;
+    min-height: 100%;
+    
+  }
+  
+.form-group{
+  
+    background-color: #8f95b0; 
+    
+  }
+  .Formborder{
+   background-color: gray;
+  margin: 70px auto;
+   width: 500px;
+   margin-top:0px;
+  
+  
+  
+  }
+  
+  .Customborder
+  {
+    border-style: solid;
+    border-color:lightgray;
+    margin: 20px 20px;
+    width:465px;
+    height:500px;
+   
+    
+  }
+  #Formborder input:focus,#Formborder button:focus{
+    outline: none;
+  }
+  #form-id
+  {
+    border:0 ;
+    width: 500px;
+   margin-bottom: 0px;
+   margin-top: 0px;
+   position: relative;
+    font-size: 18px;
+  }
+  .Label{
+    
+    
+    width: 200px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+  
+  }
+  
+  .Entrybox{
+    width: 400px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+textarea{
+    height:250px;
+  }
+  .Solid{
+    border-top: 1px solid grey;
+  }
+  .iconCustomAttach{
+    width:100%;
+    height: 47px;
+    cursor: pointer;
+  }
+  .Sendbutton{
+  height: 40px;
+  text-align: center;
+  width:300px;
+  background-color: #5b5a5c;
+  font-weight: bolder;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left:64px;
+  }
+  .Modifyicon{
+    display: inline;
+    top:5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+    align-content: center;
+    cursor: pointer;
+      }
+  
+  .ModifyiconMicro{
+      width:40px;
+    height:40px;
+  }
+  .attachedrow {
+    display: flex;
+    width:50%;
+  }
+  .caption{
+    display: inline;
+    justify-content: center;
+    cursor: pointer;
+  
+  
+  }
+  
+  .attachedrow{
+    display: flex;
+    width: 50%;
+  }
+  
+  .card{
+    width: -webkit-fill-available;
+  }
+  
+  .attachedrow::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .attachedcolumn{
+    flex:33.33%;
+    padding: 5px;
+    float: left;
+  
+  }
+  .svg-inline--fa.fa-w-12 {
+  width: 2.75em;
+  }
+  
+  
+  .row{
+    display: flex;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .iconCustom
+  {
+    width:100%;
+    height: 20px;
+    cursor: pointer;
+  }
+  
