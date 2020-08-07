@@ -15,7 +15,7 @@ import Col from 'react-bootstrap/Col'
              
             {StudentData.map((student,index)=>{
                      return <div>
-                      <Card>
+                      <Card >
                        <Container className="customCard">    
                            <Row className="customCard">   
                           <Col> <p className="text-left">{student.name}</p></Col> 

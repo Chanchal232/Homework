@@ -31,15 +31,22 @@ body{
   min-height: 100%;
   
 }
+
+
 .Navheader
 {
+  width:100%;
    display: flex;
   text-align: center;
   justify-content: space-between;
   align-items: center;
 }
 
+.navbar{
+  padding-left: 300px;
 
+    padding-right: 300px;
+}
 .form-group{
   
   background-color: #8f95b0; 
@@ -148,6 +155,9 @@ margin-left:64px;
   width: 50%;
 }
 
+.card{
+  width: -webkit-fill-available;
+}
 
 .attachedrow::after {
   content: "";

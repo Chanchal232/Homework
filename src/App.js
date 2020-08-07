@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {  Link,BrowserRouter as Router, Switch , Route } from 'react-router-dom';
 import Remark from './screen2';
-import Screen1 from './screen1';
+import Screen1 from './Screen1M';
 
 import './App.css';
 
